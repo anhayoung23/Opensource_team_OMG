@@ -1,10 +1,11 @@
-# OMG_Readme 
+# OMG_Readme:open_mouth:
 
-## 목차 :open_mouth:
+## 목차
   - 팀 소개
   - 활용한 오픈소스 소개
   - 추가한 기능
   - 참고한 자료
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
 
 ### 팀 소개
    팀명: OMG (Opensource_Modify_Group)  
