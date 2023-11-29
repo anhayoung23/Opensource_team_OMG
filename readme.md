@@ -1,4 +1,4 @@
-# OMG_Readme:open_mouth:
+# OMG_Readme :open_mouth:
 
 
 ## 목차
