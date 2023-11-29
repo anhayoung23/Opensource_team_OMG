@@ -1,4 +1,6 @@
 # OMG_Readme :open_mouth:
+<br/>
+<br/>
 
 
 # 목차
@@ -15,10 +17,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### 개요
   - 프로젝트명: Opensource_Modify (OM)
