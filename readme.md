@@ -16,7 +16,8 @@
 ### 활용한 오픈소스 소개
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
 - [Blender]
-  +: 3D 컴퓨터 그래픽 제작 소프트웨어다. 다양한 분야에서 사용이 가능하며, 효율적인 단축키, 안전성, 쉬운 UX로 인해서 생산성도 높아지고 있다. 현재 애니메이션이나 영상 회사들 위주로 Blender 도입이 늘어나고 있다.
+  +
+  : 3D 컴퓨터 그래픽 제작 소프트웨어다. 다양한 분야에서 사용이 가능하며, 효율적인 단축키, 안전성, 쉬운 UX로 인해서 생산성도 높아지고 있다. 현재 애니메이션이나 영상 회사들 위주로 Blender 도입이 늘어나고 있다.
 
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
 
