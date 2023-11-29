@@ -8,6 +8,5 @@
 
 ### 팀 소개
    팀명: OMG (Opensource_Modify_Group)  
-   팀장: 안하영
-    팀원: 조영욱
+   팀장: 안하영 / 팀원: 조영욱
 
