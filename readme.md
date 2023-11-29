@@ -15,5 +15,4 @@
 
 ### 활용한 오픈소스 소개
  <dir align="center">
-     <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/> <img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
