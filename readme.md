@@ -24,8 +24,10 @@
 
 
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/> <br/>
-[Audacity](https://www.audacityteam.org/)
+[Audacity](https://www.audacityteam.org/) <br/>
 : 자유 소프트웨어 오디오 프로그램으로 다양한 기능을 갖추고 있다. 개인-소규모 단위의 작업에 적합한 프로그램이다.
-
+<br/>
 
 ### 프로그램 설명
+
+
