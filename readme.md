@@ -8,14 +8,12 @@
   - [활용한 오픈소스 소개](#활용한-오픈소스-소개)
   - [프로그램 설명](#프로그램-설명)
   - [참고한 자료](#참고한-자료)
-
-***
-<br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
+<br/>
 
 ### 개요
   - 프로젝트명: Opensource_Modify (OM)
@@ -35,12 +33,12 @@
 ### 활용한 오픈소스 소개
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/> <br/>
 [blender](https://projects.blender.org/blender/blender?utm_medium=www-footer) <br/>
-: 3D 컴퓨터 그래픽 제작 소프트웨어다. 다양한 분야에서 사용이 가능하며, 효율적인 단축키, 안전성, 쉬운 UX로 인해서 생산성도 높아지고 있다. 현재 애니메이션이나 영상 회사들 위주로 Blender 도입이 늘어나고 있다.
+: 3D 컴퓨터 그래픽 제작 소프트웨어입니다. 다양한 분야에서 사용이 가능하며, 효율적인 단축키, 안전성, 쉬운 UX로 인해서 생산성도 높아지고 있습니다. 현재 애니메이션이나 영상 회사들 위주로 Blender 도입이 늘어나고 있습니다.
 
 
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/> <br/>
 [Audacity](https://www.audacityteam.org/) <br/>
-: 자유 소프트웨어 오디오 프로그램으로 다양한 기능을 갖추고 있다. 개인-소규모 단위의 작업에 적합한 프로그램이다.
+: 자유 소프트웨어 오디오 프로그램으로 다양한 기능을 갖추고 있습니다. 개인이나 소규모 단위의 작업으로 적합한 프로그램입니다.
 <br/>
 <br/>
 <br/>
