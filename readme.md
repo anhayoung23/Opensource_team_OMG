@@ -17,6 +17,7 @@
   - 개발언어: Python, C, C++
   - 팀장: 안하영
   - 팀원: 조영욱
+  - 소속: 중앙대학교 예술공학부
 <br/>
 
 ### 활용한 오픈소스 소개
@@ -35,5 +36,11 @@
 앞서 말한 두 오픈 소스 코드를 통해서 우리가 궁극적으로 이루고자 하는 바는 3D 제작 및 애니메이션 프로그램인 Blender에 전문적인 음원 믹싱 기능을 제공하는 Audacity의 오픈 소스 코드를 일부 가져와 Blender에서 전문적인 오디오 편집까지 가능하게 하는데에 있습니다.<br/>두 오픈 소스 모두 사용하는 언어가 동일하기 때문에 충분히 구현이 가능하다고 판단됩니다.
 <br/>
 
-###
+### 참고자료
+ - readme를 쓰는데 참고한 참고자료
+   <https://jeonge.tistory.com/157> <br/>
+ - Blender readme
+   <https://github.com/blender/blender/blob/main/README.md> <br/>
+ - Audacity readme
+   <https://github.com/audacity/audacity/blob/master/README.md>
 
