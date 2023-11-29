@@ -36,11 +36,14 @@
 앞서 말한 두 오픈 소스 코드를 통해서 우리가 궁극적으로 이루고자 하는 바는 3D 제작 및 애니메이션 프로그램인 Blender에 전문적인 음원 믹싱 기능을 제공하는 Audacity의 오픈 소스 코드를 일부 가져와 Blender에서 전문적인 오디오 편집까지 가능하게 하는데에 있습니다.<br/>두 오픈 소스 모두 사용하는 언어가 동일하기 때문에 충분히 구현이 가능하다고 판단됩니다.
 <br/>
 
+### 사용자
+프로젝트 OM은 Blender를 통해 만든 3D모델과 애니메이션을 그대로 Blender툴 안에서 바로 음원 믹싱과 편집을 가능하게 해줍니다. 이를 통해 하나의 툴로 완벽한 애니메이션과 작품을 만들 수 있습니다.
+
 ### 참고자료
- - readme를 쓰는데 참고한 참고자료
+ - readme를 쓰는데 참고한 참고자료:
    <https://jeonge.tistory.com/157> <br/>
- - Blender readme
+ - Blender readme:
    <https://github.com/blender/blender/blob/main/README.md> <br/>
- - Audacity readme
+ - Audacity readme:
    <https://github.com/audacity/audacity/blob/master/README.md>
 
