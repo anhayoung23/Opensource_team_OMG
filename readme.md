@@ -18,7 +18,7 @@
 ### 개요
   - 프로젝트명: Opensource_Modify (OM)
   - 팀명: OMG (Opensource_Modify_Group)
-  - 프로젝트 개발기간: 2023.11.17 ~ 2023.12.21
+  - 프로젝트 개발기간: 2023.11.17 ~ 2023.12.14
   - 개발언어: Python, C, C++
   - 팀장: 안하영
   - 팀원: 조영욱
@@ -68,8 +68,8 @@
 ### 참고자료
  - readme를 쓰는데 참고한 참고자료:
    <https://jeonge.tistory.com/157> <br/>
- - Blender readme:
-   <https://github.com/blender/blender/blob/main/README.md> <br/>
- - Audacity readme:
-   <https://github.com/audacity/audacity/blob/master/README.md>
+ - OpenCV readme:
+   <https://github.com/opencv/opencv/blob/4.x/README.md> <br/>
+ - Media pipe readme:
+   <https://github.com/google/mediapipe/blob/master/README.md>
 
