@@ -31,12 +31,12 @@
 <br/>
 
 ### 활용한 오픈소스 소개
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <br/>
 [OpenCV2](https://github.com/opencv) <br/>
 : 실시간 컴퓨터 비전(CV)를 목표로 한 프로그래밍 라이브러리 입니다. C/C++ 로 개발되었고, Python바인딩 되어있습니다. 주로 이미지 처리에 많이 쓰이고 물체인식, 제스처 인식 등의 기술에 응용되기도 합니다. 
 
 
-<img src="https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/PyQt-3776AB?style=flat&logo=PyQt&logoColor=white"/> <br/>
 [PyQt](https://github.com/pyqt) <br/>
 : OpenCV와 같이 Python바인딩 된 프레임워크로, Python을 이용하여 GUI를 쉽게 만들 수 있게 해줍니다. 
 <br/>
